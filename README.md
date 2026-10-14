@@ -10,9 +10,6 @@
   <a href="mailto:avallin.dev@gmail.com"><b>✉️ Email</b></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tortusito&label=Profile%20Views&color=0e75b6&style=flat" alt="Tortusito profile views" />
-</p>
 
 ---
 
