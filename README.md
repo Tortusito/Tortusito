@@ -104,6 +104,11 @@ Desarrollador Multiplataforma formado en **DAM (Desarrollo de Aplicaciones Multi
 - **Stack:** `Bash`, `Markdown`, `Git`, `JSON`, `Python`
 - **Destacados:** Sincronización continua de directivas y estándares de software sin degradación de contexto.
 
+#### 🔹 [MyBattery-View](https://github.com/Tortusito/MyBattery-View) — *Monitor de Batería Bluetooth para Windows (System Tray)*
+> Utilidad ultraligera en segundo plano para Windows 10/11 con icono dinámico en la bandeja del sistema, mini desplegable flotante (flyout), alertas de batería baja (<20%) y lectura dual de dispositivos Bluetooth Clásico (API PnP) y BLE (WinRT GATT `0x180F`).
+- **Stack:** `C#`, `.NET 8`, `WinForms + GDI+`, `WinRT BLE`, `GitHub Actions`
+- **Destacados:** Ejecutable único portable sin WebViews, tema claro/oscuro automático e inicio opcional con Windows (`HKCU`).
+
 ---
 
 ### 📱 Apps Móviles & Multiplataforma
