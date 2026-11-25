@@ -156,42 +156,6 @@ Desarrollador Multiplataforma formado en **DAM (Desarrollo de Aplicaciones Multi
 
 ---
 
-## 💼 Experiencia
-
-### **Desarrollador en prácticas** · Grupo Solutia
-*2025*
-- Desarrollo de aplicación web interna para gestión integral de incidencias y ticketing.
-- Modelado de bases de datos relacionales, optimización de consultas SQL y diseño de estructuras de datos.
-- Implementación de lógica de negocio en backend, control de accesos de usuarios y flujos de trabajo.
-- Trabajo bajo control de versiones Git en equipo y resolución de incidencias en entorno real.
-
-### **Fundador & Desarrollador** · WyForce
-*2026 - Actualidad*
-- Desarrollo de soluciones completas de software (SaaS, apps móviles en Flutter y plataformas web en Astro).
-- Despliegue continuo en la nube, optimización de arquitecturas sin servidor y BaaS (Supabase).
-- Asesoramiento y entrega técnica directa para clientes y proyectos propios.
-
----
-
-## 🎓 Formación
-
-- **C.F.G.S. Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-  *Victoria FP Institute of Technology* · 2024 - 2026
-- **Bachillerato**  
-  *IES San Lucas* · 2022 - 2024
-- **Formación continua:** Arquitecturas limpias (Clean Architecture en Flutter), seguridad en backend (Row Level Security), performance web moderna y sistemas de IA aplicada.
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tortusito&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tortusito&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Contacto
 
 <p align="center">
