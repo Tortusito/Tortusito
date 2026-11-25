@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, soy Alejandro Vallín Bejarano</h1>
 
-<h3 align="center">Desarrollador Multiplataforma · Flutter · Astro · Supabase · Java / Kotlin · Backend</h3>
+<h3 align="center">Desarrollador Multiplataforma · Flutter · Astro · Supabase · FullStack SaaS · DevOps & Automatización</h3>
 
 <p align="center">
   <a href="https://www.wyforce.com/"><b>🌐 Portfolio (WyForce)</b></a> ·
@@ -10,18 +10,19 @@
   <a href="mailto:avallin.dev@gmail.com"><b>✉️ Email</b></a>
 </p>
 
-
 ---
 
 ## 🚀 Sobre mí
 
-Desarrollador Multiplataforma formado en **DAM (Desarrollo de Aplicaciones Multiplataforma)**, enfocado en construir software robusto: desde aplicaciones móviles nativas y multiplataforma hasta plataformas web modernas, SaaS y arquitecturas backend seguras con bases de datos relacionales y BaaS.
+Desarrollador Multiplataforma formado en **DAM (Desarrollo de Aplicaciones Multiplataforma)**, enfocado en construir software robusto: desde aplicaciones móviles nativas y multiplataforma hasta plataformas web modernas, SaaS fullstack y arquitecturas backend seguras con bases de datos relacionales y BaaS.
 
 - 📱 Especializado en **Flutter** para apps móviles de alto rendimiento (iOS/Android/WearOS).
-- ⚡ Desarrollo web moderno y ultrarrápido con **Astro**, **TypeScript** y **Tailwind CSS**.
-- 🗄️ Arquitectura backend, diseño relacional y seguridad con **Supabase (PostgreSQL, RLS)** y **MySQL**.
+- ⚡ Desarrollo web moderno y ultrarrápido con **Astro 5**, **TypeScript**, **Tailwind CSS** y **React**.
+- 🗄️ Arquitectura backend, diseño relacional y seguridad con **Supabase (PostgreSQL, RLS)**, **MySQL** y **Drizzle ORM**.
+- ⚙️ Contenedorización, CI/CD y automatización con **Docker**, **GitHub Actions**, **n8n**, **Lovable** y scripts Python (**MigrateX**).
 - 💼 Creador de **WyForce** (estudio digital y portfolio) y **WyzeHub**.
-- 📍 Sanlúcar de Barrameda (Cádiz, España) · Disponible para posiciones **Junior / Mid**: Multiplataforma, Frontend, Mobile (Flutter) o Backend.
+- 🚗 Movilidad: **Carnet B / B1** y **vehículo propio** · Abierto a modalidades Remoto, Híbrido o Presencial.
+- 📍 Sanlúcar de Barrameda (Cádiz, España) · Disponible para posiciones **Junior / Mid**: Multiplataforma, Frontend, Mobile (Flutter), Backend o FullStack SaaS.
 
 ---
 
@@ -47,18 +48,23 @@ Desarrollador Multiplataforma formado en **DAM (Desarrollo de Aplicaciones Multi
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Lovable](https://img.shields.io/badge/Lovable-FF4365?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ### Backend, Bases de Datos & Cloud
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
-### Herramientas & DevOps
+### Herramientas, DevOps & Automatización
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -66,7 +72,7 @@ Desarrollador Multiplataforma formado en **DAM (Desarrollo de Aplicaciones Multi
 
 ## 🧩 Proyectos Destacados
 
-### 🌐 Ecosistema WyForce & Plataformas SaaS
+### 🌐 Ecosistema WyForce, Plataformas SaaS & Herramientas
 
 #### 🔹 [WyForce](https://www.wyforce.com/) — *Estudio Digital & Portfolio Profesional*
 > Plataforma de servicios digitales, consultoría técnica y portfolio orientada a empresas. Integraciones de SaaS, diseño de sistemas UI/UX de alto rendimiento, optimización de velocidad (Core Web Vitals) y SEO técnico.
@@ -78,15 +84,25 @@ Desarrollador Multiplataforma formado en **DAM (Desarrollo de Aplicaciones Multi
 - **Stack:** `Astro`, `Flutter`, `Supabase (PostgreSQL + RLS)`, `Edge Functions`, `Node.js`
 - **Estado:** En producción activa ([wyzehub.es](https://www.wyzehub.es/))
 
-#### 🔹 **SoftControl CRM** — *Gestión de Licencias, Suscripciones y Control Financiero*
-> Sistema de gestión empresarial integral diseñado para controlar altas de clientes, ciclo de vida de licencias por suscripción, métricas financieras y facturación.
-- **Stack:** `Astro`, `TypeScript`, `Supabase`, `Tailwind CSS`
-- **Destacados:** Sistema automatizado de licencias, roles y permisos, generación de métricas y estados financieros.
+#### 🔹 **MigrateX (Supabase DRP & Migration Engine)** — *Migración Integral de BD & Disaster Recovery*
+> Suite universal de migración desatendida y contingencia DRP para plataformas SaaS en Supabase / Lovable. Extracción y migración integral sin requerir superusuario: más de 60 tablas relacionales con resolución topológica de FKs, usuarios Auth con contraseñas hasheadas y sincronización masiva de Storage. Automatizado con scripts Python y workflows de GitHub Actions.
+- **Stack:** `Python 3`, `GitHub Actions (CI/CD)`, `Supabase Management API`, `REST API`, `Docker`, `Bash`
+- **Destacados:** Verificado en simulacro real, RTO de 2m 48s, métricas para acreditación ISO 9001/27001 y cero downtime.
+
+#### 🔹 **SoftControl CRM & QFixApp** — *Plataformas SaaS de Gestión y Soporte Técnico*
+> Soluciones SaaS completas: SoftControl para ciclo de vida de licencias por suscripción y métricas financieras; y QFixApp para gestión operativa de incidencias técnicas con arquitectura reactiva.
+- **Stack:** `React`, `Astro`, `TypeScript`, `Supabase`, `Drizzle ORM`, `Lovable`
+- **Destacados:** Seguridad multi-tenant por políticas RLS, esquemas tipados con Drizzle ORM y automatización de procesos.
 
 #### 🔹 **TaskFlowIA** — *Gestión Inteligente de Proyectos y Tareas Multi-Tenant*
-> Plataforma colaborativa para orquestación de tareas complejas con integraciones de IA. Aislamiento estricto por organizaciones (multi-empresa), trazabilidad de auditoría completa y webhooks de eventos.
-- **Stack:** `Supabase (PostgreSQL)`, `RLS avanzado`, `TypeScript`, `Webhooks`
+> Plataforma colaborativa para orquestación de tareas complejas con integraciones de IA y automatizaciones de flujos (n8n/webhooks). Aislamiento estricto por organizaciones (multi-empresa), trazabilidad de auditoría completa y eventos en tiempo real.
+- **Stack:** `Supabase (PostgreSQL)`, `RLS avanzado`, `TypeScript`, `n8n`, `Webhooks`
 - **Destacados:** Seguridad multi-tenant por políticas RLS, histórico de actividad en tiempo real y arquitectura orientada a eventos.
+
+#### 🔹 [Cerebro-codex](https://github.com/Tortusito/Cerebro-codex) & [skills-codex](https://github.com/Tortusito/skills-codex) — *Ecosistema de Ingeniería Agéntica & Memoria de Proyectos*
+> Repositorios de orquestación y automatización para agentes de IA: directivas globales de desarrollo (`AGENTS.md`), memoria viva y catálogo de 34 proyectos (`cerebro/`) y suite modular de 14 skills CLI portables entre Mac y servidores Linux/VPS.
+- **Stack:** `Bash`, `Markdown`, `Git`, `JSON`, `Python`
+- **Destacados:** Sincronización continua de directivas y estándares de software sin degradación de contexto.
 
 ---
 
@@ -188,4 +204,3 @@ Desarrollador Multiplataforma formado en **DAM (Desarrollo de Aplicaciones Multi
 <p align="center">
   <sub>✨ Código limpio · Arquitecturas escalables · Creando valor en cada proyecto ✨</sub>
 </p>
-
